@@ -202,3 +202,30 @@ In our setup, we're making use of two databases **gdb041** and **gdb056**. These
 ## Importing data into PowerBi
 
 To import MySQL database data into Power BI, provide database access details, select desired tables, and load the data for analysis.
+
+## Data Model
+
+ - **Data Modeling Foundation:** Data modeling is the fundamental structure on which a report is built, and all visual elements rely on it.
+
+- **Impact of Poor Data Modeling:** Inadequate data modeling can negatively affect the overall performance and usability of the report.
+
+- **Best Practices:** Adhering to best practices in data modeling is essential to ensure the report's effectiveness and accuracy.
+
+- **Reference to Good Practices Blog:** There is a blog or resource that provides guidance on good data modeling practices. You can refer to this [page](https://addendanalytics.com/blog/data-modelling-best-practices/) for more information and insights.
+
+- **Snowflake Data Modeling Method:** The project adopts the Snowflake data modeling method, which is a recognized approach to designing a structured and efficient data model for reporting and visualization.
+
+![model_view](model link)
+
+## Dashboard Designing Process:
+**Designing Visuals:** The team will create visual elements based on received mockups and develop necessary measures.
+
+**Home View:** The home view provides access to various sections or views. Users can navigate to specific view pages by clicking the corresponding buttons.
+- **Info**
+- **Finance View**
+- **Sales View**
+- **Marketing View**
+- **Supply Chain View**
+- **Executive View**
+- **Support**
+
