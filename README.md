@@ -215,7 +215,7 @@ To import MySQL database data into Power BI, provide database access details, se
 
 - **Snowflake Data Modeling Method:** The project adopts the Snowflake data modeling method, which is a recognized approach to designing a structured and efficient data model for reporting and visualization.
 
-![model_view](model link)
+![model_view](https://github.com/vikaskushwah312/Business-Insights-360/blob/main/Resources/model_view.png)
 
 ## Dashboard Designing Process:
 **Designing Visuals:** The team will create visual elements based on received mockups and develop necessary measures.
