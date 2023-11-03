@@ -221,6 +221,9 @@ To import MySQL database data into Power BI, provide database access details, se
 **Designing Visuals:** The team will create visual elements based on received mockups and develop necessary measures.
 
 **Home View:** The home view provides access to various sections or views. Users can navigate to specific view pages by clicking the corresponding buttons.
+
+![model_view](https://github.com/vikaskushwah312/Business-Insights-360/blob/main/Resources/Home_dashboard.png)
+
 - **Info**
 - **Finance View**
 - **Sales View**
