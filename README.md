@@ -229,3 +229,13 @@ To import MySQL database data into Power BI, provide database access details, se
 - **Executive View**
 - **Support**
 
+  ## Overall Report
+
+
+https://github.com/vikaskushwah312/Business-Insights-360/assets/46120892/9e64571a-3a1d-401f-b351-eb64fc853b27
+
+you can find the full report file here : [Report](https://app.powerbi.com/view?r=eyJrIjoiY2MwNmNlMWYtNjc5YS00NGY0LTkwYzYtZmRiZjk2MWQ1ZTVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+## Project Outcome
+This report enables data-driven decision-making and provides answers to numerous "why" questions in various situations.
+
